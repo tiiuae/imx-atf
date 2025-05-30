@@ -176,12 +176,18 @@ struct trdc_mbc_config trdc_n_mbc[] = {
 	{ 3, 3, 0, 3, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 0, 4, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 0, 5, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
+	{ 3, 3, 0, 6, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
+	{ 3, 3, 0, 7, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
+	{ 3, 3, 0, 8, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 1, 0, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 1, 1, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 1, 2, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 1, 3, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 1, 4, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 	{ 3, 3, 1, 5, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
+	{ 3, 3, 1, 6, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
+	{ 3, 3, 1, 7, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
+	{ 3, 3, 1, 8, 0, false  }, /* MBC3 OCRAM for A55 DID3 */
 
 	{ 3, 5, 0, MBC_BLK_ALL, 0, true }, /* MBC3 OCRAM for DID5 */
 	{ 3, 5, 1, MBC_BLK_ALL, 0, true }, /* MBC3 OCRAM for DID5 */
